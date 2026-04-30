@@ -1,0 +1,51 @@
+﻿produit_id;nom_produit;categorie;marque;prix_unitaire;cout_achat
+P001;Smartphone Samsung Galaxy A54;Électronique;Samsung;251606;106083
+P002;iPhone 15 128Go;Électronique;Apple;916412;578228
+P003;Laptop HP ProBook 450;Électronique;HP;707496;298162
+P004;Tablette iPad Air;Électronique;Apple;480524;307879
+P005;Écouteurs Bluetooth JBL;Électronique;JBL;33440;20672
+P006;Smart TV LG 43 pouces;Électronique;LG;350025;191981
+P007;Chargeur solaire 20000mAh;Électronique;Anker;43750;26746
+P008;Smartphone Tecno Spark 20;Électronique;Tecno;115956;63583
+P009;Clé USB 64Go SanDisk;Électronique;SanDisk;7913;4768
+P010;Disque dur externe 1To;Électronique;Seagate;50685;24136
+P011;Boubou brodé homme;Mode;Artisanal;90347;50428
+P012;Robe wax africaine;Mode;AfriStyle;45114;22927
+P013;Jean Levi's 501;Mode;Levi's;61505;25335
+P014;Sneakers Nike Air Max;Mode;Nike;87965;53423
+P015;Chemise bazin riche;Mode;Artisanal;67057;38343
+P016;Sac à main cuir femme;Mode;Local;51293;22250
+P017;T-shirt Adidas Originals;Mode;Adidas;34116;21238
+P018;Costume homme 3 pièces;Mode;Premium;174549;102326
+P019;Sandales cuir artisanales;Mode;Artisanal;26073;16278
+P020;Chaussures de ville homme;Mode;Clarks;67934;40917
+P021;Riz parfumé 25kg;Alimentation;Uncle Ben's;124863;56739
+P022;Huile de palme 5L;Alimentation;Local;39096;19416
+P023;Café Nescafé 200g;Alimentation;Nescafé;15920;8245
+P024;Lait en poudre Nido 900g;Alimentation;Nestlé;31656;16363
+P025;Sucre 5kg;Alimentation;Beghin Say;21713;12662
+P026;Thé vert Lipton x100;Alimentation;Lipton;13601;8309
+P027;Bouillon Maggi x100;Alimentation;Maggi;6588;3054
+P028;Eau minérale 1.5L x6;Alimentation;Coyah;9077;4359
+P029;Jus Tampico 2L;Alimentation;Tampico;6366;2748
+P030;Biscuits LU Petit Beurre;Alimentation;LU;6536;3133
+P031;Matelas mousse 2 places;Maison;Dormex;278858;171672
+P032;Ventilateur plafonnier;Maison;Orient;75184;37951
+P033;Réfrigérateur LG 250L;Maison;LG;408208;237099
+P034;Cuisinière à gaz 4 feux;Maison;Nasco;190854;91186
+P035;Fer à repasser Philips;Maison;Philips;25577;13379
+P036;Set casseroles inox x5;Maison;Tramontina;50856;21269
+P037;Lampe LED solaire;Maison;SunKing;12249;6643
+P038;Rideaux salon 2 panneaux;Maison;Décor+;33820;19991
+P039;Crème karité visage;Beauté;Mama Africa;13140;5661
+P040;Parfum Hugo Boss homme;Beauté;Hugo Boss;77646;43049
+P041;Shampoing L'Oréal;Beauté;L'Oréal;9549;4137
+P042;Gel douche Dove 400ml;Beauté;Dove;7087;4590
+P043;Huile de coco vierge;Beauté;Bio;12750;5704
+P044;Crème solaire SPF50;Beauté;Nivea;15635;8364
+P045;Ballon football Adidas;Sport;Adidas;27398;13678
+P046;Tapis de yoga;Sport;FitLife;19200;8857
+P047;Haltères set 20kg;Sport;FitPro;50490;27507
+P048;Maillot foot Guinée;Sport;Officiel;33807;20888
+P049;Sac de sport Nike;Sport;Nike;29143;17754
+P050;Corde à sauter fitness;Sport;Nike;6243;2886
